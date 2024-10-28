@@ -1,0 +1,68 @@
+.App {
+    width: 80%;
+    margin: auto;
+    background-color: lightgrey;
+    border: 2px solid black;
+
+}
+
+section {
+    margin: 2em;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+    font-size: 1.5em;
+}
+
+form button {
+    padding: 1em;
+    background-color: antiquewhite;
+}
+
+input,
+textarea {
+    padding: 10px;
+    font-weight: bold;
+    width: 300px;
+    text-align: center;
+}
+
+textarea {
+    resize: none;
+}
+
+button {
+    padding: 10px;
+    margin-left: 10px;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+button.delete {
+    background-color: red
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 2em;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 2em;
+    background-color: lightpink;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}

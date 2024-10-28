@@ -1,0 +1,62 @@
+[
+    {
+        "id": "12d4c6c7-8b62-4b57-9239-74a9f1e67eaf",
+        "title": " Budget Meeting",
+        "content": "Discuss quarterly targets and budget allocations.",
+        "isImportant": true
+    },
+    {
+        "id": "23a3b7d0-3c29-4bda-8fd2-d1bc5e81f00e",
+        "title": "Grocery List",
+        "content": "Milk, eggs, bread, fruits, and vegetables.",
+        "isImportant": false
+    },
+    {
+        "id": "9f5c2ae0-86cd-4d7f-9d42-ea4f9f5e4a91",
+        "title": "Workout Routine",
+        "content": "30 minutes cardio, strength training, and stretching.",
+        "isImportant": true
+    },
+    {
+        "id": "af2e6d8c-68bb-4d62-b9d4-dfebbf5f9a70",
+        "title": "Project Ideas",
+        "content": "Brainstorm innovative app concepts and features.",
+        "isImportant": false
+    },
+    {
+        "id": "75d3f9f2-4b3b-4863-a8f4-8b9d9e2c2930",
+        "title": "Vacation Planning",
+        "content": "List places to visit, travel dates, and budget.",
+        "isImportant": false
+    },
+    {
+        "id": "89d0bdb2-4ad1-4e0a-8f89-c6dcb5f3a7a3",
+        "title": "Daily Journal",
+        "content": "Reflect on today's experiences and lessons learned.",
+        "isImportant": true
+    },
+    {
+        "id": "33d1a5d6-9b6b-4fa8-9a41-65d7f5b6d472",
+        "title": "Recipe Ideas",
+        "content": "Explore new meal recipes to try over the weekend.",
+        "isImportant": false
+    },
+    {
+        "id": "71b6a4f9-8423-4e0b-b8d7-c9f5e0c0b1c8",
+        "title": "Financial Goals",
+        "content": "Outline savings plan and investment strategies.",
+        "isImportant": true
+    },
+    {
+        "id": "4c3f7d9f-10a3-4c2a-981d-2c8a2f5b7d0a",
+        "title": "Reading List",
+        "content": "Compile books to read for the month.",
+        "isImportant": false
+    },
+    {
+        "id": "7a2b3e1d-8d42-4f56-b9c8-2a3d9f4e6c1b",
+        "title": "Mindfulness Tips",
+        "content": "List meditation techniques and mindfulness practices.",
+        "isImportant": true
+    }
+]
